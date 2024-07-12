@@ -69,11 +69,11 @@ export default function Header() {
     <StyledHeader>
       <Center>
         <Wrapper>
-<<<<<<< HEAD
-          <Logo href={'/'}>Patheria Medical</Logo>
-=======
+
+          {/* <Logo href={'/'}>Patheria Medical</Logo> */}
+
           <Logo href={'/'}>Bombay Hardware</Logo>
->>>>>>> a259a12dfa7a42a3cb2551d8dd5f28de8972f876
+
           <StyledNav mobileNavActive={mobileNavActive}>
             <NavLink href={'/'}>Home</NavLink>
             <NavLink href={'/products'}>All products</NavLink>

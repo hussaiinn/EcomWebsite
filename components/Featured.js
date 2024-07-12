@@ -71,11 +71,11 @@ export default function Featured({ product }) {
         <ColumnsWrapper>
           <Column>
             <div>
-<<<<<<< HEAD
+
               <Title>Patheria Medical</Title>
-=======
-              <Title>Bombay Hardware</Title>
->>>>>>> a259a12dfa7a42a3cb2551d8dd5f28de8972f876
+
+              {/* <Title>Patheria Medical</Title> */}
+
               <Desc>Alote, Madhya Pradesh</Desc>
               <ButtonsWrapper>
                 <ButtonLink
