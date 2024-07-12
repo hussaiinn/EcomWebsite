@@ -70,9 +70,9 @@ export default function Header() {
       <Center>
         <Wrapper>
 
-          {/* <Logo href={'/'}>Patheria Medical</Logo> */}
+          <Logo href={'/'}>Patheria Medical</Logo>
 
-          <Logo href={'/'}>Bombay Hardware</Logo>
+          {/* <Logo href={'/'}>Bombay Hardware</Logo> */}
 
           <StyledNav mobileNavActive={mobileNavActive}>
             <NavLink href={'/'}>Home</NavLink>
