@@ -71,7 +71,7 @@ export default function Featured({ product }) {
         <ColumnsWrapper>
           <Column>
             <div>
-              <Title>Bombay Hardware</Title>
+              <Title>Patheria Medical</Title>
               <Desc>Alote, Madhya Pradesh</Desc>
               <ButtonsWrapper>
                 <ButtonLink
